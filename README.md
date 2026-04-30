@@ -18,7 +18,7 @@ docker compose exec php composer install
 
 3. Open in browser:
 
-`http://localhost:8080`
+`http://localhost`
 
 Expected result: Smarty test page (`Blog` and `Smarty works`).
 
